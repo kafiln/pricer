@@ -1,0 +1,2446 @@
+[
+  {
+    "city": {
+      "name": "Agadir",
+      "value": "Agadir"
+    },
+    "stations": [
+      {
+        "name": "11 JANVIER",
+        "id": "197326"
+      },
+      {
+        "name": "ANZA",
+        "id": "509760"
+      },
+      {
+        "name": "ANZA VILLE",
+        "id": "510194"
+      },
+      {
+        "name": "DRARGA",
+        "id": "173482"
+      },
+      {
+        "name": "MALAKIA",
+        "id": "151447"
+      },
+      {
+        "name": "RELAIS AGADIR",
+        "id": "101637"
+      },
+      {
+        "name": "TAGADIRT",
+        "id": "179023"
+      },
+      {
+        "name": "TAMRI",
+        "id": "101641"
+      },
+      {
+        "name": "TILILA",
+        "id": "192538"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Agdz",
+      "value": "Agdz"
+    },
+    "stations": [
+      {
+        "name": "AIT CHOUT",
+        "id": "102651"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Agouim",
+      "value": "Agouim"
+    },
+    "stations": [
+      {
+        "name": "AGOUIM",
+        "id": "102605"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Aguelmouss",
+      "value": "Aguelmouss"
+    },
+    "stations": [
+      {
+        "name": "AGUELMOUSS",
+        "id": "101288"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ain Aouda",
+      "value": "Ain Aouda"
+    },
+    "stations": [
+      {
+        "name": "AIN AOUDA",
+        "id": "101517"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ain Attiq",
+      "value": "Ain Attiq"
+    },
+    "stations": [
+      {
+        "name": "AIN ATIQ",
+        "id": "166336"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ain Harrouda",
+      "value": "Ain Harrouda"
+    },
+    "stations": [
+      {
+        "name": "AIN HARROUDA",
+        "id": "100810"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ain Jouhra",
+      "value": "Ain Jouhra"
+    },
+    "stations": [
+      {
+        "name": "AIN JOUHRA",
+        "id": "508646"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ait Baha",
+      "value": "Ait Baha"
+    },
+    "stations": [
+      {
+        "name": "AIT BAHA",
+        "id": "171251"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ait Iazza",
+      "value": "Ait Iazza"
+    },
+    "stations": [
+      {
+        "name": "AIT IAZZA",
+        "id": "196839"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ait Melloul",
+      "value": "Ait Melloul"
+    },
+    "stations": [
+      {
+        "name": "RELAIS AIT MELLOUL",
+        "id": "105007"
+      },
+      {
+        "name": "VETCAM",
+        "id": "194386"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ait Ourir",
+      "value": "Ait Ourir"
+    },
+    "stations": [
+      {
+        "name": "CHWITER",
+        "id": "509970"
+      },
+      {
+        "name": "KARIAT AYOUB",
+        "id": "186931"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ajdir",
+      "value": "Ajdir"
+    },
+    "stations": [
+      {
+        "name": "AJDIR",
+        "id": "101812"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Al Hoceima",
+      "value": "Al Hoceima"
+    },
+    "stations": [
+      {
+        "name": "CALABONITA",
+        "id": "191956"
+      },
+      {
+        "name": "NEKKOR",
+        "id": "101507"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Amskroud",
+      "value": "Amskroud"
+    },
+    "stations": [
+      {
+        "name": "RELAIS AMSKROUD",
+        "id": "149533"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Attaouia",
+      "value": "Attaouia"
+    },
+    "stations": [
+      {
+        "name": "ATTAOUIA",
+        "id": "110606"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Azemmour",
+      "value": "Azemmour"
+    },
+    "stations": [
+      {
+        "name": "ALLOUANI",
+        "id": "100736"
+      },
+      {
+        "name": "AZEMMOUR",
+        "id": "101198"
+      },
+      {
+        "name": "TNINE CHTOUKA 2",
+        "id": "154763"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Azrou",
+      "value": "Azrou"
+    },
+    "stations": [
+      {
+        "name": "AZROU",
+        "id": "174896"
+      },
+      {
+        "name": "KM 18",
+        "id": "102597"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Bejaad",
+      "value": "Bejaad"
+    },
+    "stations": [
+      {
+        "name": "BEJAAD",
+        "id": "515157"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Belfaa",
+      "value": "Belfaa"
+    },
+    "stations": [
+      {
+        "name": "BELFAA",
+        "id": "188761"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ben Ahmed",
+      "value": "Ben Ahmed"
+    },
+    "stations": [
+      {
+        "name": "BEN AHMED",
+        "id": "198619"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ben Guerir",
+      "value": "Ben Guerir"
+    },
+    "stations": [
+      {
+        "name": "BENGUERIR",
+        "id": "175074"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ben Slimane",
+      "value": "Ben Slimane"
+    },
+    "stations": [
+      {
+        "name": "BENSLIMANE",
+        "id": "100754"
+      },
+      {
+        "name": "GARAGE BENSLIMANE",
+        "id": "100815"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Beni Hadifa",
+      "value": "Beni Hadifa"
+    },
+    "stations": [
+      {
+        "name": "BENI HADIFA",
+        "id": "101815"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Beni Mellal",
+      "value": "Beni Mellal"
+    },
+    "stations": [
+      {
+        "name": "AEROPORT",
+        "id": "182466"
+      },
+      {
+        "name": "BENI MELLAL",
+        "id": "103113"
+      },
+      {
+        "name": "MELLALIA",
+        "id": "185996"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Beni Nsar",
+      "value": "Beni Nsar"
+    },
+    "stations": [
+      {
+        "name": "AHALLAL",
+        "id": "101818"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Benslimane",
+      "value": "Benslimane"
+    },
+    "stations": [
+      {
+        "name": "AL BASSATINE",
+        "id": "514521"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Berkane",
+      "value": "Berkane"
+    },
+    "stations": [
+      {
+        "name": "EL WIFAK",
+        "id": "201500"
+      },
+      {
+        "name": "TRIFFAS",
+        "id": "101339"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Berrechid",
+      "value": "Berrechid"
+    },
+    "stations": [
+      {
+        "name": "AL MIZHARIA",
+        "id": "511264"
+      },
+      {
+        "name": "BELAIR",
+        "id": "188148"
+      },
+      {
+        "name": "BENMOUSSA",
+        "id": "166692"
+      },
+      {
+        "name": "BOUMAIZA",
+        "id": "175319"
+      },
+      {
+        "name": "JEMAA LARIAH",
+        "id": "100804"
+      },
+      {
+        "name": "OULED HARRIZ",
+        "id": "100733"
+      },
+      {
+        "name": "RELAIS CHAOUIA",
+        "id": "100822"
+      },
+      {
+        "name": "ZI BERRECHID",
+        "id": "185899"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Boufakrane",
+      "value": "Boufakrane"
+    },
+    "stations": [
+      {
+        "name": "BOUFEKRANE",
+        "id": "198962"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Boujniba",
+      "value": "Boujniba"
+    },
+    "stations": [
+      {
+        "name": "BOUJNIBA",
+        "id": "101689"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Boumalne",
+      "value": "Boumalne"
+    },
+    "stations": [
+      {
+        "name": "BOUMALNE DU DADES",
+        "id": "102642"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Boumia",
+      "value": "Boumia"
+    },
+    "stations": [
+      {
+        "name": "BOUMIA",
+        "id": "101835"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Bouskoura",
+      "value": "Bouskoura"
+    },
+    "stations": [
+      {
+        "name": "VILLE VERTE",
+        "id": "512292"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Bouznika",
+      "value": "Bouznika"
+    },
+    "stations": [
+      {
+        "name": "BOUZNIKA",
+        "id": "196029"
+      },
+      {
+        "name": "DAHOMEY",
+        "id": "166794"
+      },
+      {
+        "name": "OCEAN",
+        "id": "509206"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Casablanca",
+      "value": "Casablanca"
+    },
+    "stations": [
+      {
+        "name": "ABDELMOUMEN",
+        "id": "114237"
+      },
+      {
+        "name": "AIN MAAZI",
+        "id": "201586"
+      },
+      {
+        "name": "AIN SEBAA",
+        "id": "200521"
+      },
+      {
+        "name": "AL AMAL",
+        "id": "100742"
+      },
+      {
+        "name": "AL MADINA",
+        "id": "100741"
+      },
+      {
+        "name": "AL MASSIRA",
+        "id": "100730"
+      },
+      {
+        "name": "ALMA",
+        "id": "100729"
+      },
+      {
+        "name": "ATTACHAROUK",
+        "id": "164915"
+      },
+      {
+        "name": "CITEE DJEMAA",
+        "id": "100746"
+      },
+      {
+        "name": "DAR CHEMS",
+        "id": "100820"
+      },
+      {
+        "name": "EL FARAH",
+        "id": "100816"
+      },
+      {
+        "name": "EL GHOUROUB",
+        "id": "173649"
+      },
+      {
+        "name": "ETTAJ",
+        "id": "110561"
+      },
+      {
+        "name": "GHANDI",
+        "id": "166545"
+      },
+      {
+        "name": "LES IRIS",
+        "id": "511749"
+      },
+      {
+        "name": "LIBERTE",
+        "id": "100817"
+      },
+      {
+        "name": "LISSASFA",
+        "id": "500016"
+      },
+      {
+        "name": "M'DAKRA",
+        "id": "100735"
+      },
+      {
+        "name": "MAMOUNIA",
+        "id": "100808"
+      },
+      {
+        "name": "MOULAY DRISS",
+        "id": "509073"
+      },
+      {
+        "name": "MOUSTAKBAL",
+        "id": "100781"
+      },
+      {
+        "name": "MY DRISS",
+        "id": "503073"
+      },
+      {
+        "name": "NASSIM",
+        "id": "191100"
+      },
+      {
+        "name": "OULED ZIANE",
+        "id": "100778"
+      },
+      {
+        "name": "OUM ERRABII",
+        "id": "100813"
+      },
+      {
+        "name": "PALMIERS",
+        "id": "144413"
+      },
+      {
+        "name": "RACINE",
+        "id": "184547"
+      },
+      {
+        "name": "RELAIS AL BAIDA",
+        "id": "108645"
+      },
+      {
+        "name": "RIVIERA",
+        "id": "181400"
+      },
+      {
+        "name": "ROCHES NOIRES",
+        "id": "153160"
+      },
+      {
+        "name": "ROUTE DE RABAT",
+        "id": "509207"
+      },
+      {
+        "name": "ROUTE DU SUD",
+        "id": "509273"
+      },
+      {
+        "name": "SIDI MAAROUF",
+        "id": "100812"
+      },
+      {
+        "name": "VELODROME",
+        "id": "100770"
+      },
+      {
+        "name": "VILLE NOUVELLE",
+        "id": "515214"
+      },
+      {
+        "name": "ZENATA",
+        "id": "100773"
+      },
+      {
+        "name": "ZI AIN SEBAA",
+        "id": "188716"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Chefchaouen",
+      "value": "Chefchaouen"
+    },
+    "stations": [
+      {
+        "name": "DARDARA",
+        "id": "506366"
+      },
+      {
+        "name": "PANORAMA",
+        "id": "110595"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Chichaoua",
+      "value": "Chichaoua"
+    },
+    "stations": [
+      {
+        "name": "RELAIS CHICHAOUA",
+        "id": "149534"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Crochet Blanco",
+      "value": "Crochet Blanco"
+    },
+    "stations": [
+      {
+        "name": "ASSALAM",
+        "id": "101762"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Djemaa Sahim",
+      "value": "Djemaa Sahim"
+    },
+    "stations": [
+      {
+        "name": "DJEMAA SAHIM",
+        "id": "101568"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Dlalha",
+      "value": "Dlalha"
+    },
+    "stations": [
+      {
+        "name": "DLALHA",
+        "id": "192551"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Douar Ouled Ghadbane",
+      "value": "Douar Ouled Ghadbane"
+    },
+    "stations": [
+      {
+        "name": "JORF",
+        "id": "154898"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Driouch",
+      "value": "Driouch"
+    },
+    "stations": [
+      {
+        "name": "EL KALAI",
+        "id": "101810"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "El Aioun",
+      "value": "El Aioun"
+    },
+    "stations": [
+      {
+        "name": "AL AIOUN",
+        "id": "181187"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "El Hajeb",
+      "value": "El Hajeb"
+    },
+    "stations": [
+      {
+        "name": "ATLAS BILADI",
+        "id": "163271"
+      },
+      {
+        "name": "EL HAJEB",
+        "id": "197087"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "El Jadida",
+      "value": "El Jadida"
+    },
+    "stations": [
+      {
+        "name": "AL FATH",
+        "id": "108856"
+      },
+      {
+        "name": "AL MANAR",
+        "id": "195516"
+      },
+      {
+        "name": "AMGHAR",
+        "id": "504840"
+      },
+      {
+        "name": "DOUKKALA",
+        "id": "101194"
+      },
+      {
+        "name": "RELAIS MAZAGAN",
+        "id": "193198"
+      },
+      {
+        "name": "ROUTE DE JORF",
+        "id": "188848"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "El Kalaa D'Esraghna",
+      "value": "El Kalaa D'Esraghna"
+    },
+    "stations": [
+      {
+        "name": "SRAGHNA",
+        "id": "102377"
+      },
+      {
+        "name": "TASSAOUT",
+        "id": "181217"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "El Menzel",
+      "value": "El Menzel"
+    },
+    "stations": [
+      {
+        "name": "EL MENZEL",
+        "id": "101069"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Erfoud",
+      "value": "Erfoud"
+    },
+    "stations": [
+      {
+        "name": "ERFOUD",
+        "id": "101268"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Errachidia",
+      "value": "Errachidia"
+    },
+    "stations": [
+      {
+        "name": "ERRACHIDIA",
+        "id": "502343"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Essaouira",
+      "value": "Essaouira"
+    },
+    "stations": [
+      {
+        "name": "ESSAOUIRA",
+        "id": "101143"
+      },
+      {
+        "name": "GHAZOUA",
+        "id": "197220"
+      },
+      {
+        "name": "MOGADOR",
+        "id": "148819"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Fès",
+      "value": "Fès"
+    },
+    "stations": [
+      {
+        "name": "AL QUARAOUIYINE",
+        "id": "192967"
+      },
+      {
+        "name": "ATLAS",
+        "id": "101056"
+      },
+      {
+        "name": "BENSOUDA",
+        "id": "184575"
+      },
+      {
+        "name": "GARE",
+        "id": "101063"
+      },
+      {
+        "name": "LES ALPES",
+        "id": "197457"
+      },
+      {
+        "name": "RELAIS DE FES",
+        "id": "184352"
+      },
+      {
+        "name": "RELAIS EL MANSOUR",
+        "id": "101051"
+      },
+      {
+        "name": "ROUTE DE SEFROU",
+        "id": "191084"
+      },
+      {
+        "name": "SIDI BRAHIM",
+        "id": "184353"
+      },
+      {
+        "name": "ZALLAGH",
+        "id": "101054"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Fkih Bensalah",
+      "value": "Fkih Bensalah"
+    },
+    "stations": [
+      {
+        "name": "FKIH BENSALEH",
+        "id": "162519"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ghafsai",
+      "value": "Ghafsai"
+    },
+    "stations": [
+      {
+        "name": "GHAFSAI",
+        "id": "101068"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Goulmime",
+      "value": "Goulmime"
+    },
+    "stations": [
+      {
+        "name": "BAB SAHARA",
+        "id": "101654"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Guercif",
+      "value": "Guercif"
+    },
+    "stations": [
+      {
+        "name": "MOULOUYA",
+        "id": "152243"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Had Hrara",
+      "value": "Had Hrara"
+    },
+    "stations": [
+      {
+        "name": "HAD HARRARA",
+        "id": "108543"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Had Soualem",
+      "value": "Had Soualem"
+    },
+    "stations": [
+      {
+        "name": "HAD SOUALEM",
+        "id": "511564"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Idelssane",
+      "value": "Idelssane"
+    },
+    "stations": [
+      {
+        "name": "FOUM EL GHEZLANE",
+        "id": "176539"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ikaoune",
+      "value": "Ikaoune"
+    },
+    "stations": [
+      {
+        "name": "IKAOUEN",
+        "id": "101067"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Immouzer",
+      "value": "Immouzer"
+    },
+    "stations": [
+      {
+        "name": "IMMOUZER",
+        "id": "192035"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Imzouren",
+      "value": "Imzouren"
+    },
+    "stations": [
+      {
+        "name": "IMZOUREN",
+        "id": "508647"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Inchaden",
+      "value": "Inchaden"
+    },
+    "stations": [
+      {
+        "name": "TINE MANSOUR",
+        "id": "101647"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Inzegane",
+      "value": "Inzegane"
+    },
+    "stations": [
+      {
+        "name": "INZEGANE",
+        "id": "101638"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kaa Srass",
+      "value": "Kaa Srass"
+    },
+    "stations": [
+      {
+        "name": "KAA ASRASS",
+        "id": "101429"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kalaa Megouna",
+      "value": "Kalaa Megouna"
+    },
+    "stations": [
+      {
+        "name": "KELAA M'GOUNA",
+        "id": "101136"
+      },
+      {
+        "name": "TAZAKHTE",
+        "id": "101127"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kasba Tadla",
+      "value": "Kasba Tadla"
+    },
+    "stations": [
+      {
+        "name": "KASBA TADLA",
+        "id": "502416"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kenetra",
+      "value": "Kenetra"
+    },
+    "stations": [
+      {
+        "name": "ROUTE DE TANGER",
+        "id": "509968"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kenitra",
+      "value": "Kenitra"
+    },
+    "stations": [
+      {
+        "name": "AVENIR",
+        "id": "101932"
+      },
+      {
+        "name": "MAAMORA",
+        "id": "119781"
+      },
+      {
+        "name": "MENASRA",
+        "id": "187565"
+      },
+      {
+        "name": "SEBOU",
+        "id": "101417"
+      },
+      {
+        "name": "SOUK TNINE",
+        "id": "152893"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Khemisset",
+      "value": "Khemisset"
+    },
+    "stations": [
+      {
+        "name": "KHEMISSET",
+        "id": "506886"
+      },
+      {
+        "name": "RELAIS OULMES",
+        "id": "101291"
+      },
+      {
+        "name": "ZEMMOUR",
+        "id": "154677"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Khenifra",
+      "value": "Khenifra"
+    },
+    "stations": [
+      {
+        "name": "OUM ERRABII KHENIFRA",
+        "id": "192965"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Khouribga",
+      "value": "Khouribga"
+    },
+    "stations": [
+      {
+        "name": "AUTO LION",
+        "id": "104885"
+      },
+      {
+        "name": "LES TULIPES",
+        "id": "515207"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Kleaa",
+      "value": "Kleaa"
+    },
+    "stations": [
+      {
+        "name": "BIOUGRA",
+        "id": "101639"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ksar El Kebir",
+      "value": "Ksar El Kebir"
+    },
+    "stations": [
+      {
+        "name": "CENTRALE",
+        "id": "101804"
+      },
+      {
+        "name": "RELAIS LOUKOS",
+        "id": "101719"
+      },
+      {
+        "name": "TAIMOUSSI",
+        "id": "154054"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ksiba",
+      "value": "Ksiba"
+    },
+    "stations": [
+      {
+        "name": "KSIBA",
+        "id": "199076"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Laaouamra",
+      "value": "Laaouamra"
+    },
+    "stations": [
+      {
+        "name": "LAAOUAMRA",
+        "id": "101808"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Larache",
+      "value": "Larache"
+    },
+    "stations": [
+      {
+        "name": "AL BOUSTANE",
+        "id": "514325"
+      },
+      {
+        "name": "RELAIS ATLANTIS",
+        "id": "515285"
+      },
+      {
+        "name": "RELAIS LARACHE",
+        "id": "101715"
+      },
+      {
+        "name": "ROSALES",
+        "id": "184944"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Machraa Bel Ksiri",
+      "value": "Machraa Bel Ksiri"
+    },
+    "stations": [
+      {
+        "name": "KSIRI",
+        "id": "101934"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Marrakech",
+      "value": "Marrakech"
+    },
+    "stations": [
+      {
+        "name": "AMEZMIZ",
+        "id": "169983"
+      },
+      {
+        "name": "AZZOUZIA",
+        "id": "502417"
+      },
+      {
+        "name": "DJEBILET",
+        "id": "101121"
+      },
+      {
+        "name": "FAKHARA",
+        "id": "508778"
+      },
+      {
+        "name": "MARJANA",
+        "id": "182045"
+      },
+      {
+        "name": "MOULAY ALI",
+        "id": "101137"
+      },
+      {
+        "name": "NAKHIL II",
+        "id": "161540"
+      },
+      {
+        "name": "RELAIS PALMERAIE",
+        "id": "165552"
+      },
+      {
+        "name": "REMPARTS",
+        "id": "185102"
+      },
+      {
+        "name": "ROUTE D'OURIKA",
+        "id": "192674"
+      },
+      {
+        "name": "SOUIHLA",
+        "id": "505631"
+      },
+      {
+        "name": "TABOUANITE",
+        "id": "102643"
+      },
+      {
+        "name": "TARGA",
+        "id": "189069"
+      },
+      {
+        "name": "YABYO",
+        "id": "186040"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Martil",
+      "value": "Martil"
+    },
+    "stations": [
+      {
+        "name": "MARINA",
+        "id": "101757"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mediouna",
+      "value": "Mediouna"
+    },
+    "stations": [
+      {
+        "name": "MEDIOUNA",
+        "id": "185753"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Meknès",
+      "value": "Meknès"
+    },
+    "stations": [
+      {
+        "name": "GHABA",
+        "id": "126788"
+      },
+      {
+        "name": "IDRISSIA",
+        "id": "101289"
+      },
+      {
+        "name": "ISMAILIYA",
+        "id": "198336"
+      },
+      {
+        "name": "RIAD",
+        "id": "154247"
+      },
+      {
+        "name": "SIDI SAID",
+        "id": "153327"
+      },
+      {
+        "name": "ZERHOUNE",
+        "id": "151352"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Meloussa",
+      "value": "Meloussa"
+    },
+    "stations": [
+      {
+        "name": "RELAIS TANGER MED",
+        "id": "123081"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Midelt",
+      "value": "Midelt"
+    },
+    "stations": [
+      {
+        "name": "TAFILELT",
+        "id": "101290"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Missour",
+      "value": "Missour"
+    },
+    "stations": [
+      {
+        "name": "MISSOUR",
+        "id": "101836"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mjaara",
+      "value": "Mjaara"
+    },
+    "stations": [
+      {
+        "name": "M'JAARA",
+        "id": "101431"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mohammedia",
+      "value": "Mohammedia"
+    },
+    "stations": [
+      {
+        "name": "BENI YAKHLEF",
+        "id": "200341"
+      },
+      {
+        "name": "DU PARC",
+        "id": "100819"
+      },
+      {
+        "name": "GARAGE EL ALIA",
+        "id": "198964"
+      },
+      {
+        "name": "LOUIZIA",
+        "id": "501623"
+      },
+      {
+        "name": "OUED MELLAH",
+        "id": "100782"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mont El Aroui",
+      "value": "Mont El Aroui"
+    },
+    "stations": [
+      {
+        "name": "MONT EL AROUI",
+        "id": "101823"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mrirt",
+      "value": "Mrirt"
+    },
+    "stations": [
+      {
+        "name": "MRIRT",
+        "id": "101285"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Mzouda",
+      "value": "Mzouda"
+    },
+    "stations": [
+      {
+        "name": "MZOUDA",
+        "id": "176660"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Nador",
+      "value": "Nador"
+    },
+    "stations": [
+      {
+        "name": "MARCHICA",
+        "id": "514168"
+      },
+      {
+        "name": "SELOUANE",
+        "id": "515669"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Nouasseur",
+      "value": "Nouasseur"
+    },
+    "stations": [
+      {
+        "name": "OUED BOUSKOURA",
+        "id": "504547"
+      },
+      {
+        "name": "SAPINO",
+        "id": "156268"
+      },
+      {
+        "name": "TAMARIS II",
+        "id": "101174"
+      },
+      {
+        "name": "TAMARIS ZITI",
+        "id": "163368"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Oualidia",
+      "value": "Oualidia"
+    },
+    "stations": [
+      {
+        "name": "AOUAL MAHFOUD",
+        "id": "101187"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ouarzazate",
+      "value": "Ouarzazate"
+    },
+    "stations": [
+      {
+        "name": "EL OUARZAZI",
+        "id": "191065"
+      },
+      {
+        "name": "FEROUIJ",
+        "id": "102646"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ouazzane",
+      "value": "Ouazzane"
+    },
+    "stations": [
+      {
+        "name": "OUAZZENE",
+        "id": "101428"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Oued Amlil",
+      "value": "Oued Amlil"
+    },
+    "stations": [
+      {
+        "name": "OUED AMLIL",
+        "id": "188717"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Oued Zem",
+      "value": "Oued Zem"
+    },
+    "stations": [
+      {
+        "name": "OUED ZEM",
+        "id": "162647"
+      },
+      {
+        "name": "TADLA",
+        "id": "186629"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Oujda",
+      "value": "Oujda"
+    },
+    "stations": [
+      {
+        "name": "AKLIM",
+        "id": "510486"
+      },
+      {
+        "name": "AL IRFANE",
+        "id": "502361"
+      },
+      {
+        "name": "AL MAKSSEM",
+        "id": "195780"
+      },
+      {
+        "name": "DOUANE",
+        "id": "193483"
+      },
+      {
+        "name": "IBN TACHEFINE",
+        "id": "192810"
+      },
+      {
+        "name": "LAZARET",
+        "id": "194167"
+      },
+      {
+        "name": "LOUXOR",
+        "id": "512616"
+      },
+      {
+        "name": "OUJDA",
+        "id": "200901"
+      },
+      {
+        "name": "OULED ABBOU",
+        "id": "509943"
+      },
+      {
+        "name": "PORTES DE L'ORIENTAL",
+        "id": "510853"
+      },
+      {
+        "name": "RYAD ANGAD",
+        "id": "174133"
+      },
+      {
+        "name": "RYAD BENI OUKIL",
+        "id": "194823"
+      },
+      {
+        "name": "SEKILIA",
+        "id": "514772"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ouled Jelloul",
+      "value": "Ouled Jelloul"
+    },
+    "stations": [
+      {
+        "name": "OULED JELLOUL",
+        "id": "101427"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ouled Mbarek",
+      "value": "Ouled Mbarek"
+    },
+    "stations": [
+      {
+        "name": "OULED M'BAREK",
+        "id": "101692"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Ouled Taima",
+      "value": "Ouled Taima"
+    },
+    "stations": [
+      {
+        "name": "OUED SOUSS",
+        "id": "102545"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Rabat",
+      "value": "Rabat"
+    },
+    "stations": [
+      {
+        "name": "AGDAL",
+        "id": "101506"
+      },
+      {
+        "name": "MARHABA",
+        "id": "102999"
+      },
+      {
+        "name": "NEJMA",
+        "id": "188166"
+      },
+      {
+        "name": "RELAIS BOUREGREG",
+        "id": "501063"
+      },
+      {
+        "name": "ROUTES DES ZAERS",
+        "id": "101487"
+      },
+      {
+        "name": "TAMESNA",
+        "id": "167766"
+      },
+      {
+        "name": "YAACOUB EL MANSOUR",
+        "id": "101496"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Rich",
+      "value": "Rich"
+    },
+    "stations": [
+      {
+        "name": "RICH",
+        "id": "192537"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Safi",
+      "value": "Safi"
+    },
+    "stations": [
+      {
+        "name": "ABDA",
+        "id": "173648"
+      },
+      {
+        "name": "CITE DE LA MER",
+        "id": "187251"
+      },
+      {
+        "name": "DAR SI AISSA",
+        "id": "197958"
+      },
+      {
+        "name": "DJERIFET",
+        "id": "149648"
+      },
+      {
+        "name": "IDRISS II",
+        "id": "101564"
+      },
+      {
+        "name": "OULED TALHA",
+        "id": "180831"
+      },
+      {
+        "name": "SIDI BOUZID",
+        "id": "101570"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Saidia",
+      "value": "Saidia"
+    },
+    "stations": [
+      {
+        "name": "ICHRAK PARK",
+        "id": "166656"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sala Al Jadida",
+      "value": "Sala Al Jadida"
+    },
+    "stations": [
+      {
+        "name": "SALA AL JADIDA",
+        "id": "152116"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sale",
+      "value": "Sale"
+    },
+    "stations": [
+      {
+        "name": "AVIATION",
+        "id": "101518"
+      },
+      {
+        "name": "LAAYAYDA",
+        "id": "142437"
+      },
+      {
+        "name": "RENAISSANCE",
+        "id": "101499"
+      },
+      {
+        "name": "TROIS PORTES",
+        "id": "101521"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sebt Gzoula",
+      "value": "Sebt Gzoula"
+    },
+    "stations": [
+      {
+        "name": "SEBT GZOULA",
+        "id": "101562"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sefrou",
+      "value": "Sefrou"
+    },
+    "stations": [
+      {
+        "name": "LES CERISES",
+        "id": "101059"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Settat",
+      "value": "Settat"
+    },
+    "stations": [
+      {
+        "name": "ROUTE EL BROUJ",
+        "id": "505605"
+      },
+      {
+        "name": "SETTAT",
+        "id": "507370"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Allal Bahraoui",
+      "value": "Sidi Allal Bahraoui"
+    },
+    "stations": [
+      {
+        "name": "SIDI ALLAL BAHRAOUI",
+        "id": "101497"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Assal",
+      "value": "Sidi Assal"
+    },
+    "stations": [
+      {
+        "name": "SIDI EL ASSAL",
+        "id": "101935"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Ayache",
+      "value": "Sidi Ayache"
+    },
+    "stations": [
+      {
+        "name": "SIDI AYACHE",
+        "id": "101436"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Bennour",
+      "value": "Sidi Bennour"
+    },
+    "stations": [
+      {
+        "name": "SIDI BENNOUR",
+        "id": "101180"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Bibi",
+      "value": "Sidi Bibi"
+    },
+    "stations": [
+      {
+        "name": "SIDI BIBI",
+        "id": "180591"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Kacem",
+      "value": "Sidi Kacem"
+    },
+    "stations": [
+      {
+        "name": "AIN HAMRA",
+        "id": "101424"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Slimane",
+      "value": "Sidi Slimane"
+    },
+    "stations": [
+      {
+        "name": "DU GHARB",
+        "id": "149650"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Smail",
+      "value": "Sidi Smail"
+    },
+    "stations": [
+      {
+        "name": "SIDI SMAIL",
+        "id": "101175"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Tiji",
+      "value": "Sidi Tiji"
+    },
+    "stations": [
+      {
+        "name": "SIDI TIJI",
+        "id": "166806"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Sidi Zouine",
+      "value": "Sidi Zouine"
+    },
+    "stations": [
+      {
+        "name": "SIDI ZOUINE",
+        "id": "101125"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Souk El Arbaa",
+      "value": "Souk El Arbaa"
+    },
+    "stations": [
+      {
+        "name": "ROUTE DU NORD",
+        "id": "198208"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Souk Larbaa",
+      "value": "Souk Larbaa"
+    },
+    "stations": [
+      {
+        "name": "SOUK EL ARBA",
+        "id": "101423"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tamansourt",
+      "value": "Tamansourt"
+    },
+    "stations": [
+      {
+        "name": "TAMENSOURT",
+        "id": "182330"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tamelalt",
+      "value": "Tamelalt"
+    },
+    "stations": [
+      {
+        "name": "TAMELET",
+        "id": "102653"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tamsamane",
+      "value": "Tamsamane"
+    },
+    "stations": [
+      {
+        "name": "TAMSAMANE",
+        "id": "101824"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tanant",
+      "value": "Tanant"
+    },
+    "stations": [
+      {
+        "name": "AKHOUDAS",
+        "id": "102375"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tanger",
+      "value": "Tanger"
+    },
+    "stations": [
+      {
+        "name": "BENI MAKADA",
+        "id": "101716"
+      },
+      {
+        "name": "DEUX MERS",
+        "id": "515324"
+      },
+      {
+        "name": "EUROPE",
+        "id": "192553"
+      },
+      {
+        "name": "GLADYS",
+        "id": "163183"
+      },
+      {
+        "name": "HAKAMA",
+        "id": "500666"
+      },
+      {
+        "name": "RELAIS TANGER",
+        "id": "101714"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Taourirt",
+      "value": "Taourirt"
+    },
+    "stations": [
+      {
+        "name": "RELAIS TAOURIRT",
+        "id": "161966"
+      },
+      {
+        "name": "TAOURIRT",
+        "id": "104866"
+      },
+      {
+        "name": "TAOURIRT SEBT",
+        "id": "101348"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Targuist",
+      "value": "Targuist"
+    },
+    "stations": [
+      {
+        "name": "TARGUIST",
+        "id": "101821"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Taroudant",
+      "value": "Taroudant"
+    },
+    "stations": [
+      {
+        "name": "AGAFAY",
+        "id": "164637"
+      },
+      {
+        "name": "EL HOUMIR",
+        "id": "514839"
+      },
+      {
+        "name": "LES ORANGERS",
+        "id": "514319"
+      },
+      {
+        "name": "TAROUDANT",
+        "id": "506233"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tata",
+      "value": "Tata"
+    },
+    "stations": [
+      {
+        "name": "TATA",
+        "id": "101640"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Taza",
+      "value": "Taza"
+    },
+    "stations": [
+      {
+        "name": "TAZA",
+        "id": "101065"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Taznakht",
+      "value": "Taznakht"
+    },
+    "stations": [
+      {
+        "name": "TAZENAKHT",
+        "id": "101132"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Temara",
+      "value": "Temara"
+    },
+    "stations": [
+      {
+        "name": "CHBAKI",
+        "id": "101525"
+      },
+      {
+        "name": "MERS ELKHEIR",
+        "id": "505049"
+      },
+      {
+        "name": "TEMARA",
+        "id": "167765"
+      },
+      {
+        "name": "TEMARA 2",
+        "id": "154055"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tetouan",
+      "value": "Tetouan"
+    },
+    "stations": [
+      {
+        "name": "ARTISANAT",
+        "id": "123127"
+      },
+      {
+        "name": "BADIS",
+        "id": "193894"
+      },
+      {
+        "name": "DREAMS",
+        "id": "152676"
+      },
+      {
+        "name": "EL MATAR",
+        "id": "101759"
+      },
+      {
+        "name": "PALMERAS",
+        "id": "101803"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tikiouine",
+      "value": "Tikiouine"
+    },
+    "stations": [
+      {
+        "name": "TIKIOUINE",
+        "id": "197586"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tinghir",
+      "value": "Tinghir"
+    },
+    "stations": [
+      {
+        "name": "GORGES DE TODGHA",
+        "id": "192550"
+      },
+      {
+        "name": "TINGHIR",
+        "id": "101142"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tinjdad",
+      "value": "Tinjdad"
+    },
+    "stations": [
+      {
+        "name": "TINIJDAD",
+        "id": "101271"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tinzouline",
+      "value": "Tinzouline"
+    },
+    "stations": [
+      {
+        "name": "TINZOULINE",
+        "id": "102645"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tiznit",
+      "value": "Tiznit"
+    },
+    "stations": [
+      {
+        "name": "KHADRA",
+        "id": "182679"
+      },
+      {
+        "name": "TIZNIT",
+        "id": "101633"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tlet Louled",
+      "value": "Tlet Louled"
+    },
+    "stations": [
+      {
+        "name": "TLET LOULAD",
+        "id": "100732"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tnine Ghiat",
+      "value": "Tnine Ghiat"
+    },
+    "stations": [
+      {
+        "name": "TNINE GHIAT",
+        "id": "101563"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Tnine Ourika",
+      "value": "Tnine Ourika"
+    },
+    "stations": [
+      {
+        "name": "OURIKA",
+        "id": "101118"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Youssoufia",
+      "value": "Youssoufia"
+    },
+    "stations": [
+      {
+        "name": "KACHKAT",
+        "id": "101577"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Zagora",
+      "value": "Zagora"
+    },
+    "stations": [
+      {
+        "name": "ZAGORA",
+        "id": "169381"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Zaio",
+      "value": "Zaio"
+    },
+    "stations": [
+      {
+        "name": "ZAIO",
+        "id": "197317"
+      }
+    ]
+  },
+  {
+    "city": {
+      "name": "Zemamra",
+      "value": "Zemamra"
+    },
+    "stations": [
+      {
+        "name": "ESPACE RAHA",
+        "id": "514894"
+      }
+    ]
+  }
+]
