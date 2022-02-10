@@ -6,7 +6,9 @@ import data from "./data/stations.json";
 
 const isDev = () => process.env.NODE_ENV === "development";
 
-const API_URL = isDev() ? "/" : "https://total.smarteez.eu/";
+const API_URL = isDev()
+  ? "/"
+  : "https://cors-anywhere.herokuapp.com/https://total.smarteez.eu/";
 
 interface Station {
   id?: string;
