@@ -4,11 +4,7 @@ import { useEffect, useState } from "react";
 import cities from "./data/cities.json";
 import data from "./data/stations.json";
 
-const isDev = () => process.env.NODE_ENV === "development";
-
-const API_URL = isDev()
-  ? "/"
-  : "https://cors-anywhere.herokuapp.com/https://total.smarteez.eu/";
+const API_URL = "https://total.smarteez.eu/";
 
 interface Station {
   id?: string;
