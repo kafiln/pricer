@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import cities from "./data/cities.json";
 import data from "./data/stations.json";
 
-const API_URL = "https://total.smarteez.eu/";
+const API_URL =
+  "https://cors-anywhere-kafil.herokuapp.com/https://total.smarteez.eu/submit/";
 
 interface Station {
   id?: string;
@@ -28,9 +29,7 @@ const App = () => {
         (item) => item.city.name === city
       )[0].stations;
       const ids = chosenStations.map((item) => item.id);
-      const promises = ids.map((id) =>
-        axios.get(`${API_URL}submit/?station=${id}`)
-      );
+      const promises = ids.map((id) => axios.get(`${API_URL}?station=${id}`));
       await Promise.all(promises)
         .then((res) => {
           const resultData = res.map((item) => item.data);
@@ -71,7 +70,7 @@ const App = () => {
                 <h2>{station.name}</h2>
                 <p>Diesel: {station.diesel}</p>
                 <p>Essence: {station.essence}</p>
-                <p>Excellium: {station.excellium}</p>
+                {/* <p>Excellium: {station.excellium}</p> */}
               </Group>
             )
         )}
