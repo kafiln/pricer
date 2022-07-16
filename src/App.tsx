@@ -1,4 +1,4 @@
-import { Container, Group, Select } from "@mantine/core";
+import { Box, Container, Group, Select, Table, Title } from "@mantine/core";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import cities from "./data/cities.json";
@@ -47,8 +47,8 @@ const App = () => {
 
   return (
     <Container>
-      <Group position="center" direction="column">
-        <h1>Prix du carburant</h1>
+      <Group position="center" direction="column" spacing={"lg"}>
+        <Title>Prix du carburant</Title>
         <Select
           searchable
           clearable
@@ -61,19 +61,34 @@ const App = () => {
           transitionDuration={80}
           transitionTimingFunction="ease"
         ></Select>
+        <Box>
+          {stations && stations.length > 0 && (
+            <Table striped>
+              <thead>
+                <tr>
+                  <th>Station</th>
+                  <th>Diesel</th>
+                  <th>Essence</th>
+                </tr>
+              </thead>
+              <tbody>
+                {stations.map(
+                  (station: Station, index: number) =>
+                    station.diesel && (
+                      <tr key={index}>
+                        <td style={{ textTransform: "capitalize" }}>
+                          {station.name}
+                        </td>
+                        <td>{station.diesel}</td>
+                        <td>{station.essence}</td>
+                      </tr>
+                    )
+                )}
+              </tbody>
+            </Table>
+          )}
+        </Box>
       </Group>
-      {stations &&
-        stations.map(
-          (station: Station) =>
-            station.diesel && (
-              <Group key={station.id} direction="column">
-                <h2>{station.name}</h2>
-                <p>Diesel: {station.diesel}</p>
-                <p>Essence: {station.essence}</p>
-                {/* <p>Excellium: {station.excellium}</p> */}
-              </Group>
-            )
-        )}
     </Container>
   );
 };
