@@ -1,4 +1,12 @@
-import { Box, Container, Group, Select, Table, Title } from "@mantine/core";
+import {
+  Box,
+  Container,
+  Group,
+  Loader,
+  Select,
+  Table,
+  Title,
+} from "@mantine/core";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import cities from "./data/cities.json";
@@ -18,6 +26,7 @@ interface Station {
 const App = () => {
   const [city, setCity] = useState("");
   const [stations, setStations] = useState<Station[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     async function fetchData() {
@@ -29,6 +38,7 @@ const App = () => {
         (item) => item.city.name === city
       )[0].stations;
       const ids = chosenStations.map((item) => item.id);
+      setIsLoading(true);
       const promises = ids.map((id) => axios.get(`${API_URL}?station=${id}`));
       await Promise.all(promises)
         .then((res) => {
@@ -39,7 +49,8 @@ const App = () => {
             chosenStations[index].excellium = item.prix?.prix_aditive;
           });
         })
-        .catch((_err) => console.log("err"));
+        .catch((_err) => console.log("err"))
+        .finally(() => setIsLoading(false));
       setStations(chosenStations);
     }
     fetchData();
@@ -62,6 +73,7 @@ const App = () => {
           transitionTimingFunction="ease"
         ></Select>
         <Box>
+          {isLoading && <Loader />}
           {stations && stations.length > 0 && (
             <Table striped>
               <thead>
